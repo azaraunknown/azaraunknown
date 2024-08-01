@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on: Misc Projects<br>🌱 I’m currently improving: MySQL<br>⚡ Fun fact: I have no fun fact!
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3VT7fVAJ2N) 
 
@@ -20,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azaraunknown&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
